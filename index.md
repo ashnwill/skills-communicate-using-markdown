@@ -4,3 +4,5 @@
 #### This is four
 ##### Five
 ###### Six
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
